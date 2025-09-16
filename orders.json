@@ -1,0 +1,43 @@
+{
+  "SBCE03218": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Marco Pellegrini, Warmoezenierstraat 23, 18209 Bad Doberan, Deutschland",
+    "receiver": "Alexander Van As, Lindenstraat 33, 2671 ZP Naaldwijk, Niederlande",
+    "price": "2.700 €",
+    "description": "Hersteller: BMW<br>Typ: C Evolution <br>Fahrgestelnummer: WB10C2308GZL08551 <br>Erstzulassung: 04/2016 <br> HU/AU 04/2027 <br> KM laut Vorbesitzer: 15.549 km <br>Leistung: 11 kW (15 PS) <br>Farbe: Weiß <br> Koffer <br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung.Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Alexander Van As<br>Warmoezenierstraat 23<br>2671 ZP Naaldwijk<br>Niederlande<br>Telefon: +31 629268347",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "16-09-2025",
+    "deliveryDate": "25-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Warmoezenierstraat 23",
+      "postal_code": "2671 ZP",
+      "city": "Naaldwijk",
+      "country": "Niederlande"
+    }
+  }
+}
